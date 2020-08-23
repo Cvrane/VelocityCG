@@ -1,6 +1,6 @@
 # VelocityCG
 OCR Project for Velocity Capital Group to deliver an end-to-end framework for CRM. 
-This project is a full-stack application in Python-Django stack. The database used is MongoDB. 
+This project is a full-stack application in Python-Django stack. The database used is MongoDB. WIP to add data pipeline Airflow.
 
 # Drag-on
 
